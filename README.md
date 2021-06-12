@@ -28,10 +28,10 @@
 
 <br/>
 
-<a href="https://github.com/evildevill">
+<a href="https://github.com/Pulingz">
   <img src="https://github-readme-stats.vercel.app/api?username=Pulingz&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
 </a>
-<a href="https://github.com/evildevill">
+<a href="https://github.com/Pulingz">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulingz&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
